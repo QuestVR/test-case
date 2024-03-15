@@ -8,4 +8,4 @@ test_1.py test_2.py test_3.py
 3) logger python
 
 
-Пока что только не удалось реализовать паттерн PageObject.
+Пока только не удалось реализовать паттерн PageObject.
